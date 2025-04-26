@@ -22,3 +22,18 @@ Python: The backbone of the application, handling all the logic and data process
 Streamlit: Used to create a user-friendly web interface with minimal code.
 
 CSV Module: For seamless import and export of student data.
+
+
+## Installation
+
+'''bash
+pip install streamlit
+
+## Usage
+
+'''bash
+streamlit run your_script.py
+
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.6:8501
